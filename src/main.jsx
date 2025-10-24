@@ -23,7 +23,7 @@ import "bootstrap/dist/css/bootstrap.css";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
-    <Route>
+    <Route errorElement={<Error />}>
       {/* errorElement={<Error />} */}
       {/* Pages */}
       <Route element={<Layout />}>

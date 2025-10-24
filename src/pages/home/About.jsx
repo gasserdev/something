@@ -15,7 +15,7 @@ const data = {
 function About() {
   return (
     <section
-      id={`${style.about} about `}
+      id="about"
       class={` ${style.section} py-5 bg-light d-flex justify-center align-center `}
       style={{ minHeight: "100vh" }}
     >
