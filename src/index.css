@@ -1,0 +1,23 @@
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.icon {
+  font-size: 3rem;
+}
+
+body {
+  /* color: royalblue; */
+  line-height: 1.8;
+}
+
+.noborder {
+  border: none !important;
+}

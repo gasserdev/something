@@ -1,0 +1,9 @@
+.main {
+  color: red;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  text-transform: capitalize;
+  font-size: xx-large;
+}
